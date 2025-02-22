@@ -28,7 +28,7 @@ I want to become the best of the best coder in the world and architect digital e
 *Tools & Concepts: Vanilla JS, DOM manipulation, ES6+, Local Storage, Event handling, Async/Await*
 
 - [X] [001. Todo App (CRUD operations, filtering, local storage, drag-drop sorting)](https://github.com/hritik-agarwal/001-todo-app)
-- [ ] 002. Quiz Platform (timer, scoring, multiple question types, progress tracking) **[...In Progress]**
+- [ ] [002. Quiz Platform (timer, scoring, multiple question types, progress tracking)](https://github.com/hritik-agarwal/002-Quiz-Platform) **[Current Project]**
 - [ ] 003. Expense Tracker (data visualization, category management, basic statistics)
 - [ ] 004. Custom Video Player (custom controls, playback features, picture-in-picture)
 - [ ] 005. Form Validator Suite (real-time validation, custom error messages, multiple form types)
