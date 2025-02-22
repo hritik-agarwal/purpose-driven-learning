@@ -2,15 +2,13 @@
 
 ## Purpose & Methodology
 
-I want to become the best of the best coder in the world and architect digital experiences that change how people interact with this world.
+I want to become one of the best of the best coder in the world and architect digital experiences that change how people interact with this world.
 
 ### Core Methodology for Upskilling
 
-1. **Project-Driven Learning** 🤖  
-   No more learning stuff randomly or even for the sake of building "future" projects. Build stuff to learn stuff and not the other way around.
-
-2. **Quantity over Quality** 🦖  
-   Especially in the beginning, I want to focus on building tons of applications in various domains and technologies instead of few good projects.
+1. **Project-Driven Learning** 🤖 No more learning "stuff" randomly or even for the sake of building "future" projects. Build stuff to learn stuff and not the other way around.
+2. **Quantity over Quality** 🦖 Especially in the beginning, I want to focus on building tons of applications in various domains and technologies instead of few good projects.
+3. **Limited LLMs Usage** 🥄 Using LLMs **_only_** when I get really stuck or need to learn a concept or just labour work. No copy-pasting code and logic. They can really hamper learning.
 
 ## Learning Blueprint
 
